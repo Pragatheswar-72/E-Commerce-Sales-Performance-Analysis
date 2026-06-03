@@ -1,4 +1,4 @@
-E-Commerce Sales Performance Analysis (SQL & Python Portfolio Project)
+E-Commerce Sales Performance Analysis (SQL & Python Project)
 
 This project is a comprehensive sales performance and profitability audit using an SQLite transactional database (database.db) containing e-commerce superstore records. It runs strategic business queries using SQL and translates them into actionable visual intelligence using Python in a Jupyter Notebook.
 
